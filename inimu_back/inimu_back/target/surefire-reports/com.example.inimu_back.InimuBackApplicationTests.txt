@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.inimu_back.InimuBackApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.052 s -- in com.example.inimu_back.InimuBackApplicationTests
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.818 s -- in com.example.inimu_back.InimuBackApplicationTests
