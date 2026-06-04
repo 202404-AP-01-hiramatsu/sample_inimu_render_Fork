@@ -1,0 +1,8 @@
+.git
+**/target
+**/.git
+**/.history
+**/.idea
+**/.vscode
+**/out
+**/build
